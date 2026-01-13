@@ -61,7 +61,7 @@ mini-sales-order/
 │  ├─ routes/
 │  │  ├─ productRoutes.js
 │  │  └─ orderRoutes.js
-│  ├─ server.js
+│  ├─ index.js
 │  └─ package.json
 ├─ frontend/
 │  ├─ src/
@@ -74,5 +74,5 @@ mini-sales-order/
 │  │  ├─ App.jsx
 │  │  └─ main.jsx
 │  ├─ package.json
-│  └─ tailwind.config.js
+│  └─ vite.config.js
 └─ README.md
