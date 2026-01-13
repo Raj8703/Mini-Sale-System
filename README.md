@@ -32,7 +32,7 @@ cd backend
 npm install
 Create a .env file in backend:
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI=mongodb://localhost:27017/sales-order-db
 
 Start backend server:
 npm run dev
